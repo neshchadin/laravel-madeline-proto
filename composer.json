@@ -11,8 +11,7 @@
     ],
     "keywords": [
         "laravel",
-        "telegram",
-        "madeline-proto"
+        "telegram"
     ],
     "require": {
         "php": "^7.4|^8.0",
